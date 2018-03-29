@@ -11,7 +11,9 @@
     <Quadro03>
       <Q03C01>250717395</Q03C01>
     </Quadro03>
-    <Quadro04/>
+    <Quadro04>
+      <Q04B01>3</Q04B01>
+    </Quadro04>
     <Quadro05/>
     <Quadro06>
       <Rostoq06BT01/>
@@ -22,15 +24,22 @@
       <Rostoq07AT01/>
       <Rostoq07BT01/>
     </Quadro07>
-    <Quadro08/>
+    <Quadro08>
+      <Q08B01>1</Q08B01>
+    </Quadro08>
     <Quadro09/>
-    <Quadro10/>
+    <Quadro10>
+      <Q10B01>1</Q10B01>
+    </Quadro10>
     <Quadro11/>
     <Quadro13/>
   </Rosto>
   <AnexoB id="250717395">
     <Quadro00/>
-    <Quadro01/>
+    <Quadro01>
+      <AnexoBq01B01>1</AnexoBq01B01>
+      <AnexoBq01B03>true</AnexoBq01B03>
+    </Quadro01>
     <Quadro02>
       <AnexoBq02C01>2017</AnexoBq02C01>
     </Quadro02>
@@ -38,9 +47,18 @@
       <AnexoBq03C01>250717395</AnexoBq03C01>
       <AnexoBq03B03>N</AnexoBq03B03>
       <AnexoBq03C05>250717395</AnexoBq03C05>
+      <AnexoBq03C08>62010</AnexoBq03C08>
+      <AnexoBq03B10>N</AnexoBq03B10>
     </Quadro03>
-    <Quadro04/>
-    <Quadro05/>
+    <Quadro04>
+      <AnexoBq04C404>3500.00</AnexoBq04C404>
+      <AnexoBq04SomaC01>3500.00</AnexoBq04SomaC01>
+      <AnexoBq04SomaC02>0.00</AnexoBq04SomaC02>
+      <AnexoBq04SomaC03>0.00</AnexoBq04SomaC03>
+    </Quadro04>
+    <Quadro05>
+      <AnexoBq05B01>N</AnexoBq05B01>
+    </Quadro05>
     <Quadro06>
       <AnexoBq06C602>0.00</AnexoBq06C602>
       <AnexoBq06T01>
@@ -60,6 +78,8 @@
       <AnexoBq07DT01/>
     </Quadro07>
     <Quadro08>
+      <AnexoBq08B01>N</AnexoBq08B01>
+      <AnexoBq08B03>N</AnexoBq08B03>
       <AnexoBq08T01/>
     </Quadro08>
     <Quadro09>
@@ -74,9 +94,15 @@
     <Quadro12/>
     <Quadro13>
       <AnexoBq13AT01/>
+      <AnexoBq13C1304>3500.00</AnexoBq13C1304>
+      <AnexoBq13SomaC01>3500.00</AnexoBq13SomaC01>
+      <AnexoBq13SomaC02>0.00</AnexoBq13SomaC02>
+      <AnexoBq13SomaC03>0.00</AnexoBq13SomaC03>
       <AnexoBq13CT01/>
     </Quadro13>
     <Quadro14>
+      <AnexoBq14B01>N</AnexoBq14B01>
+      <AnexoBq14B04>N</AnexoBq14B04>
       <AnexoBq14T01/>
     </Quadro14>
     <Quadro15>
