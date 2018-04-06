@@ -1,339 +1,383 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<Modelo3IRSv2018 xmlns="http://www.dgci.gov.pt/2009/Modelo3IRSv2018" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" versao="1" xsi:schemaLocation="http://www.dgci.gov.pt/2009/Modelo3IRSv2018 Modelo3IRSv2018.xsd">
-  <Rosto>
-    <QuadroInicio/>
-    <Quadro01>
-      <Q01C01>3239</Q01C01>
-    </Quadro01>
-    <Quadro02>
-      <Q02C01>2017</Q02C01>
-    </Quadro02>
-    <Quadro03>
-      <Q03C01>230905080</Q03C01>
-    </Quadro03>
-    <Quadro04/>
-    <Quadro05/>
-    <Quadro06>
-      <Rostoq06BT01/>
-      <Rostoq06BT02/>
-      <Rostoq06BT03/>
-    </Quadro06>
-    <Quadro07>
-      <Rostoq07AT01/>
-      <Rostoq07BT01/>
-    </Quadro07>
-    <Quadro08/>
-    <Quadro09>
-      <Q09C01>PT50001800031445458102094</Q09C01>
-    </Quadro09>
-    <Quadro10/>
-    <Quadro11/>
-    <Quadro13/>
-  </Rosto>
-  <AnexoA>
-    <Quadro02>
-      <AnexoAq02C01>2017</AnexoAq02C01>
-    </Quadro02>
-    <Quadro03>
-      <AnexoAq03C01>230905080</AnexoAq03C01>
-    </Quadro03>
-    <Quadro04>
-      <AnexoAq04AT01>
-        <AnexoAq04AT01-Linha numero="1">
-          <NIF>504972952</NIF>
-          <CodRendimentos>401</CodRendimentos>
-          <Titular>A</Titular>
-          <Rendimentos>1888.14</Rendimentos>
-          <Retencoes>63.00</Retencoes>
-          <Contribuicoes>207.69</Contribuicoes>
-          <RetSobretaxa>0.00</RetSobretaxa>
-          <Quotizacoes>0.00</Quotizacoes>
-        </AnexoAq04AT01-Linha>
-      </AnexoAq04AT01>
-      <AnexoAq04AT01SomaC01>1888.14</AnexoAq04AT01SomaC01>
-      <AnexoAq04AT01SomaC02>63.00</AnexoAq04AT01SomaC02>
-      <AnexoAq04AT01SomaC03>207.69</AnexoAq04AT01SomaC03>
-      <AnexoAq04AT01SomaC04>0.00</AnexoAq04AT01SomaC04>
-      <AnexoAq04AT01SomaC05>0.00</AnexoAq04AT01SomaC05>
-      <AnexoAq04BT01/>
-      <AnexoAq04CT01/>
-      <AnexoAq04CT02/>
-    </Quadro04>
-    <Quadro05>
-      <AnexoAq05T01/>
-    </Quadro05>
-  </AnexoA>
-  <AnexoF>
-    <Quadro02>
-      <AnexoFq02C01>2017</AnexoFq02C01>
-    </Quadro02>
-    <Quadro03>
-      <AnexoFq03C01>230905080</AnexoFq03C01>
-    </Quadro03>
-    <Quadro04>
-      <AnexoFq04T01>
-        <AnexoFq04T01-Linha numero="1">
-          <NLinha>4001</NLinha>
-          <Freguesia>110602</Freguesia>
-          <TipoPredio>U</TipoPredio>
-          <Artigo>1683</Artigo>
-          <Fraccao>A</Fraccao>
-          <Titular>A</Titular>
-          <ValorIliquidoRendas>1100.00</ValorIliquidoRendas>
-          <NaturezaRendas>1</NaturezaRendas>
-          <RetencoesFonte>0.00</RetencoesFonte>
-          <NIFArrendatario>268399719</NIFArrendatario>
-        </AnexoFq04T01-Linha>
-        <AnexoFq04T01-Linha numero="2">
-          <NLinha>4002</NLinha>
-          <Freguesia>110602</Freguesia>
-          <TipoPredio>U</TipoPredio>
-          <Artigo>1683</Artigo>
-          <Fraccao>A</Fraccao>
-          <Titular>A</Titular>
-          <ValorIliquidoRendas>1100.00</ValorIliquidoRendas>
-          <NaturezaRendas>1</NaturezaRendas>
-          <RetencoesFonte>0.00</RetencoesFonte>
-          <NIFArrendatario>217877133</NIFArrendatario>
-        </AnexoFq04T01-Linha>
-        <AnexoFq04T01-Linha numero="3">
-          <NLinha>4003</NLinha>
-          <Freguesia>110602</Freguesia>
-          <TipoPredio>U</TipoPredio>
-          <Artigo>1683</Artigo>
-          <Fraccao>B</Fraccao>
-          <Titular>A</Titular>
-          <ValorIliquidoRendas>254.68</ValorIliquidoRendas>
-          <NaturezaRendas>1</NaturezaRendas>
-          <RetencoesFonte>0.00</RetencoesFonte>
-          <NIFArrendatario>151487685</NIFArrendatario>
-        </AnexoFq04T01-Linha>
-        <AnexoFq04T01-Linha numero="4">
-          <NLinha>4004</NLinha>
-          <Freguesia>110602</Freguesia>
-          <TipoPredio>U</TipoPredio>
-          <Artigo>1683</Artigo>
-          <Fraccao>C</Fraccao>
-          <Titular>A</Titular>
-          <ValorIliquidoRendas>179.56</ValorIliquidoRendas>
-          <NaturezaRendas>1</NaturezaRendas>
-          <RetencoesFonte>0.00</RetencoesFonte>
-          <NIFArrendatario>149495714</NIFArrendatario>
-        </AnexoFq04T01-Linha>
-        <AnexoFq04T01-Linha numero="5">
-          <NLinha>4005</NLinha>
-          <Freguesia>110602</Freguesia>
-          <TipoPredio>U</TipoPredio>
-          <Artigo>1683</Artigo>
-          <Fraccao>D</Fraccao>
-          <Titular>A</Titular>
-          <ValorIliquidoRendas>421.03</ValorIliquidoRendas>
-          <NaturezaRendas>1</NaturezaRendas>
-          <RetencoesFonte>0.00</RetencoesFonte>
-          <NIFArrendatario>130021075</NIFArrendatario>
-        </AnexoFq04T01-Linha>
-        <AnexoFq04T01-Linha numero="6">
-          <NLinha>4006</NLinha>
-          <Freguesia>110602</Freguesia>
-          <TipoPredio>U</TipoPredio>
-          <Artigo>1683</Artigo>
-          <Fraccao>E</Fraccao>
-          <Titular>A</Titular>
-          <ValorIliquidoRendas>2000.00</ValorIliquidoRendas>
-          <NaturezaRendas>1</NaturezaRendas>
-          <RetencoesFonte>0.00</RetencoesFonte>
-          <NIFArrendatario>230019803</NIFArrendatario>
-        </AnexoFq04T01-Linha>
-        <AnexoFq04T01-Linha numero="7">
-          <NLinha>4007</NLinha>
-          <Freguesia>110602</Freguesia>
-          <TipoPredio>U</TipoPredio>
-          <Artigo>1683</Artigo>
-          <Fraccao>F</Fraccao>
-          <Titular>A</Titular>
-          <ValorIliquidoRendas>1050.00</ValorIliquidoRendas>
-          <NaturezaRendas>1</NaturezaRendas>
-          <RetencoesFonte>0.00</RetencoesFonte>
-          <NIFArrendatario>271479930</NIFArrendatario>
-        </AnexoFq04T01-Linha>
-        <AnexoFq04T01-Linha numero="8">
-          <NLinha>4008</NLinha>
-          <Freguesia>110602</Freguesia>
-          <TipoPredio>U</TipoPredio>
-          <Artigo>1683</Artigo>
-          <Fraccao>F</Fraccao>
-          <Titular>A</Titular>
-          <ValorIliquidoRendas>1050.00</ValorIliquidoRendas>
-          <NaturezaRendas>1</NaturezaRendas>
-          <RetencoesFonte>0.00</RetencoesFonte>
-          <NIFArrendatario>267340117</NIFArrendatario>
-        </AnexoFq04T01-Linha>
-        <AnexoFq04T01-Linha numero="9">
-          <NLinha>4009</NLinha>
-          <Freguesia>110667</Freguesia>
-          <TipoPredio>U</TipoPredio>
-          <Artigo>616</Artigo>
-          <Titular>A</Titular>
-          <ValorIliquidoRendas>2750.00</ValorIliquidoRendas>
-          <NaturezaRendas>1</NaturezaRendas>
-          <RetencoesFonte>0.00</RetencoesFonte>
-          <NIFArrendatario>288922948</NIFArrendatario>
-        </AnexoFq04T01-Linha>
-        <AnexoFq04T01-Linha numero="10">
-          <NLinha>4010</NLinha>
-          <Freguesia>110667</Freguesia>
-          <TipoPredio>U</TipoPredio>
-          <Artigo>1560</Artigo>
-          <Titular>A</Titular>
-          <ValorIliquidoRendas>2562.50</ValorIliquidoRendas>
-          <NaturezaRendas>1</NaturezaRendas>
-          <RetencoesFonte>0.00</RetencoesFonte>
-          <NIFArrendatario>221032126</NIFArrendatario>
-        </AnexoFq04T01-Linha>
-        <AnexoFq04T01-Linha numero="11">
-          <NLinha>4011</NLinha>
-          <Freguesia>110667</Freguesia>
-          <TipoPredio>U</TipoPredio>
-          <Artigo>1560</Artigo>
-          <Titular>A</Titular>
-          <ValorIliquidoRendas>2700.00</ValorIliquidoRendas>
-          <NaturezaRendas>1</NaturezaRendas>
-          <RetencoesFonte>0.00</RetencoesFonte>
-          <NIFArrendatario>235879894</NIFArrendatario>
-        </AnexoFq04T01-Linha>	  
-        <AnexoFq04T01-Linha numero="12">
-          <NLinha>4012</NLinha>
-          <Freguesia>110656</Freguesia>
-          <TipoPredio>U</TipoPredio>
-          <Artigo>1993</Artigo>
-          <Fraccao>RC D</Fraccao>
-          <Titular>A</Titular>
-          <ValorIliquidoRendas>25.83</ValorIliquidoRendas>
-          <NaturezaRendas>1</NaturezaRendas>
-          <RetencoesFonte>0.00</RetencoesFonte>
-          <NIFArrendatario>100226264</NIFArrendatario>
-        </AnexoFq04T01-Linha>
-        <AnexoFq04T01-Linha numero="13">
-          <NLinha>4013</NLinha>
-          <Freguesia>110656</Freguesia>
-          <TipoPredio>U</TipoPredio>
-          <Artigo>1993</Artigo>
-          <Fraccao>RC D</Fraccao>
-          <Titular>A</Titular>
-          <ValorIliquidoRendas>541.67</ValorIliquidoRendas>
-          <NaturezaRendas>1</NaturezaRendas>
-          <RetencoesFonte>0.00</RetencoesFonte>
-          <NIFArrendatario>267326823</NIFArrendatario>
-        </AnexoFq04T01-Linha>
-        <AnexoFq04T01-Linha numero="14">
-          <NLinha>4014</NLinha>
-          <Freguesia>110656</Freguesia>
-          <TipoPredio>U</TipoPredio>
-          <Artigo>1993</Artigo>
-          <Fraccao>RC E</Fraccao>
-          <Titular>A</Titular>
-          <ValorIliquidoRendas>1100.00</ValorIliquidoRendas>
-          <NaturezaRendas>1</NaturezaRendas>
-          <RetencoesFonte>0.00</RetencoesFonte>
-          <NIFArrendatario>108154246</NIFArrendatario>
-        </AnexoFq04T01-Linha>
-        <AnexoFq04T01-Linha numero="15">
-          <NLinha>4015</NLinha>
-          <Freguesia>110656</Freguesia>
-          <TipoPredio>U</TipoPredio>
-          <Artigo>1993</Artigo>
-          <Fraccao>1ºD</Fraccao>
-          <Titular>A</Titular>
-          <ValorIliquidoRendas>916.67</ValorIliquidoRendas>
-          <NaturezaRendas>1</NaturezaRendas>
-          <RetencoesFonte>0.00</RetencoesFonte>
-          <NIFArrendatario>245142754</NIFArrendatario>
-        </AnexoFq04T01-Linha>
-        <AnexoFq04T01-Linha numero="16">
-          <NLinha>4016</NLinha>
-          <Freguesia>110656</Freguesia>
-          <TipoPredio>U</TipoPredio>
-          <Artigo>1993</Artigo>
-          <Fraccao>1ºE</Fraccao>
-          <Titular>A</Titular>
-          <ValorIliquidoRendas>1000.00</ValorIliquidoRendas>
-          <NaturezaRendas>1</NaturezaRendas>
-          <RetencoesFonte>0.00</RetencoesFonte>
-          <NIFArrendatario>217798080</NIFArrendatario>
-        </AnexoFq04T01-Linha>
-        <AnexoFq04T01-Linha numero="17">
-          <NLinha>4017</NLinha>
-          <Freguesia>110656</Freguesia>
-          <TipoPredio>U</TipoPredio>
-          <Artigo>1993</Artigo>
-          <Fraccao>2ºD</Fraccao>
-          <Titular>A</Titular>
-          <ValorIliquidoRendas>250.00</ValorIliquidoRendas>
-          <NaturezaRendas>1</NaturezaRendas>
-          <RetencoesFonte>0.00</RetencoesFonte>
-          <NIFArrendatario>215511980</NIFArrendatario>
-        </AnexoFq04T01-Linha>
-        <AnexoFq04T01-Linha numero="18">
-          <NLinha>4018</NLinha>
-          <Freguesia>110656</Freguesia>
-          <TipoPredio>U</TipoPredio>
-          <Artigo>1993</Artigo>
-          <Fraccao>2ºD</Fraccao>
-          <Titular>A</Titular>
-          <ValorIliquidoRendas>250.00</ValorIliquidoRendas>
-          <NaturezaRendas>1</NaturezaRendas>
-          <RetencoesFonte>0.00</RetencoesFonte>
-          <NIFArrendatario>242713378</NIFArrendatario>
-        </AnexoFq04T01-Linha>
-        <AnexoFq04T01-Linha numero="19">
-          <NLinha>4019</NLinha>
-          <Freguesia>110656</Freguesia>
-          <TipoPredio>U</TipoPredio>
-          <Artigo>1993</Artigo>
-          <Fraccao>2ºD</Fraccao>
-          <Titular>A</Titular>
-          <ValorIliquidoRendas>550.00</ValorIliquidoRendas>
-          <NaturezaRendas>1</NaturezaRendas>
-          <RetencoesFonte>0.00</RetencoesFonte>
-          <NIFArrendatario>267326823</NIFArrendatario>
-        </AnexoFq04T01-Linha>
-        <AnexoFq04T01-Linha numero="20">
-          <NLinha>4020</NLinha>
-          <Freguesia>110656</Freguesia>
-          <TipoPredio>U</TipoPredio>
-          <Artigo>1993</Artigo>
-          <Fraccao>2ºE</Fraccao>
-          <Titular>A</Titular>
-          <ValorIliquidoRendas>1100.00</ValorIliquidoRendas>
-          <NaturezaRendas>1</NaturezaRendas>
-          <RetencoesFonte>0.00</RetencoesFonte>
-          <NIFArrendatario>191788520</NIFArrendatario>
-        </AnexoFq04T01-Linha>
-	  </AnexoFq04T01>
-      <AnexoFq04T01SomaC01>20901.94</AnexoFq04T01SomaC01>
-      <AnexoFq04T01SomaC02>0.00</AnexoFq04T01SomaC02>
-    </Quadro04>
-    <Quadro05>
-      <AnexoFq05AT01/>
-      <AnexoFq05BT01/>
-    </Quadro05>
-    <Quadro06>
-      <AnexoFq06T01/>
-      <AnexoFq06T01SomaC01>0.00</AnexoFq06T01SomaC01>
-      <AnexoFq06T01SomaC02>0.00</AnexoFq06T01SomaC02>
-      <AnexoFq06T01SomaC03>0.00</AnexoFq06T01SomaC03>
-    </Quadro06>
-    <Quadro07>
-      <AnexoFq07AT01/>
-    </Quadro07>
-    <Quadro08>
-      <AnexoFq08T01/>
-    </Quadro08>
-    <Quadro09>
-      <AnexoFq09T01/>
-    </Quadro09>
-    <Quadro10>
-      <AnexoFq10T01/>
-    </Quadro10>
-  </AnexoF>
+<Modelo3IRSv2018  xmlns="http://www.dgci.gov.pt/2009/Modelo3IRSv2018" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dgci.gov.pt/2009/Modelo3IRSv2018 Modelo3IRSv2018.xsd" versao="1">
+<Rosto>
+<QuadroInicio />
+<Quadro01>
+<Q01C01>3239</Q01C01>
+</Quadro01>
+<Quadro02>
+<Q02C01>2017</Q02C01>
+</Quadro02>
+<Quadro03>
+<Q03C01>230905080</Q03C01>
+</Quadro03>
+<Quadro04>
+<Q04B01>3</Q04B01>
+</Quadro04>
+<Quadro05 />
+<Quadro06>
+<Rostoq06BT01 />
+<Rostoq06BT02 />
+<Rostoq06BT03 />
+</Quadro06>
+<Quadro07>
+<Rostoq07AT01 />
+<Rostoq07BT01 />
+</Quadro07>
+<Quadro08>
+<Q08B01>1</Q08B01>
+</Quadro08>
+<Quadro09>
+<Q09C01>PT50001800031445458102094</Q09C01>
+<Q09B01b>true</Q09B01b>
+</Quadro09>
+<Quadro10>
+<Q10B01>1</Q10B01>
+</Quadro10>
+<Quadro11 />
+<Quadro13 />
+</Rosto>
+<AnexoA>
+<Quadro02>
+<AnexoAq02C01>2017</AnexoAq02C01>
+</Quadro02>
+<Quadro03>
+<AnexoAq03C01>230905080</AnexoAq03C01>
+</Quadro03>
+<Quadro04>
+<AnexoAq04AT01>
+<AnexoAq04AT01-Linha numero="1">
+<NIF>504972952</NIF>
+<CodRendimentos>401</CodRendimentos>
+<Titular>A</Titular>
+<Rendimentos>1888.14</Rendimentos>
+<Retencoes>63.00</Retencoes>
+<Contribuicoes>207.69</Contribuicoes>
+<RetSobretaxa>0.00</RetSobretaxa>
+<Quotizacoes>0.00</Quotizacoes>
+</AnexoAq04AT01-Linha>
+</AnexoAq04AT01>
+<AnexoAq04AT01SomaC01>1888.14</AnexoAq04AT01SomaC01>
+<AnexoAq04AT01SomaC02>63.00</AnexoAq04AT01SomaC02>
+<AnexoAq04AT01SomaC03>207.69</AnexoAq04AT01SomaC03>
+<AnexoAq04AT01SomaC04>0.00</AnexoAq04AT01SomaC04>
+<AnexoAq04AT01SomaC05>0.00</AnexoAq04AT01SomaC05>
+<AnexoAq04BT01 />
+<AnexoAq04CT01 />
+<AnexoAq04CT02 />
+</Quadro04>
+<Quadro05>
+<AnexoAq05T01 />
+</Quadro05>
+</AnexoA>
+<AnexoF>
+<Quadro02>
+<AnexoFq02C01>2017</AnexoFq02C01>
+</Quadro02>
+<Quadro03>
+<AnexoFq03C01>230905080</AnexoFq03C01>
+</Quadro03>
+<Quadro04>
+<AnexoFq04T01>
+<AnexoFq04T01-Linha numero="1">
+<NLinha>4001</NLinha>
+<Freguesia>110602</Freguesia>
+<TipoPredio>U</TipoPredio>
+<Artigo>1683</Artigo>
+<Fraccao>A</Fraccao>
+<Titular>A</Titular>
+<ValorIliquidoRendas>1100.00</ValorIliquidoRendas>
+<NaturezaRendas>1</NaturezaRendas>
+<RetencoesFonte>0.00</RetencoesFonte>
+<NIFArrendatario>268399719</NIFArrendatario>
+</AnexoFq04T01-Linha>
+<AnexoFq04T01-Linha numero="2">
+<NLinha>4002</NLinha>
+<Freguesia>110602</Freguesia>
+<TipoPredio>U</TipoPredio>
+<Artigo>1683</Artigo>
+<Fraccao>A</Fraccao>
+<Titular>A</Titular>
+<ValorIliquidoRendas>1100.00</ValorIliquidoRendas>
+<NaturezaRendas>1</NaturezaRendas>
+<RetencoesFonte>0.00</RetencoesFonte>
+<NIFArrendatario>217877133</NIFArrendatario>
+</AnexoFq04T01-Linha>
+<AnexoFq04T01-Linha numero="3">
+<NLinha>4003</NLinha>
+<Freguesia>110602</Freguesia>
+<TipoPredio>U</TipoPredio>
+<Artigo>1683</Artigo>
+<Fraccao>B</Fraccao>
+<Titular>A</Titular>
+<ValorIliquidoRendas>254.68</ValorIliquidoRendas>
+<NaturezaRendas>1</NaturezaRendas>
+<RetencoesFonte>0.00</RetencoesFonte>
+<NIFArrendatario>151487685</NIFArrendatario>
+</AnexoFq04T01-Linha>
+<AnexoFq04T01-Linha numero="4">
+<NLinha>4004</NLinha>
+<Freguesia>110602</Freguesia>
+<TipoPredio>U</TipoPredio>
+<Artigo>1683</Artigo>
+<Fraccao>C</Fraccao>
+<Titular>A</Titular>
+<ValorIliquidoRendas>179.56</ValorIliquidoRendas>
+<NaturezaRendas>1</NaturezaRendas>
+<RetencoesFonte>0.00</RetencoesFonte>
+<NIFArrendatario>149495714</NIFArrendatario>
+</AnexoFq04T01-Linha>
+<AnexoFq04T01-Linha numero="5">
+<NLinha>4005</NLinha>
+<Freguesia>110602</Freguesia>
+<TipoPredio>U</TipoPredio>
+<Artigo>1683</Artigo>
+<Fraccao>D</Fraccao>
+<Titular>A</Titular>
+<ValorIliquidoRendas>421.03</ValorIliquidoRendas>
+<NaturezaRendas>1</NaturezaRendas>
+<RetencoesFonte>0.00</RetencoesFonte>
+<NIFArrendatario>130021075</NIFArrendatario>
+</AnexoFq04T01-Linha>
+<AnexoFq04T01-Linha numero="6">
+<NLinha>4006</NLinha>
+<Freguesia>110602</Freguesia>
+<TipoPredio>U</TipoPredio>
+<Artigo>1683</Artigo>
+<Fraccao>E</Fraccao>
+<Titular>A</Titular>
+<ValorIliquidoRendas>2000.00</ValorIliquidoRendas>
+<NaturezaRendas>1</NaturezaRendas>
+<RetencoesFonte>0.00</RetencoesFonte>
+<NIFArrendatario>230019803</NIFArrendatario>
+</AnexoFq04T01-Linha>
+<AnexoFq04T01-Linha numero="7">
+<NLinha>4007</NLinha>
+<Freguesia>110602</Freguesia>
+<TipoPredio>U</TipoPredio>
+<Artigo>1683</Artigo>
+<Fraccao>F</Fraccao>
+<Titular>A</Titular>
+<ValorIliquidoRendas>1050.00</ValorIliquidoRendas>
+<NaturezaRendas>1</NaturezaRendas>
+<RetencoesFonte>0.00</RetencoesFonte>
+<NIFArrendatario>271479930</NIFArrendatario>
+</AnexoFq04T01-Linha>
+<AnexoFq04T01-Linha numero="8">
+<NLinha>4008</NLinha>
+<Freguesia>110602</Freguesia>
+<TipoPredio>U</TipoPredio>
+<Artigo>1683</Artigo>
+<Fraccao>F</Fraccao>
+<Titular>A</Titular>
+<ValorIliquidoRendas>1050.00</ValorIliquidoRendas>
+<NaturezaRendas>1</NaturezaRendas>
+<RetencoesFonte>0.00</RetencoesFonte>
+<NIFArrendatario>267340117</NIFArrendatario>
+</AnexoFq04T01-Linha>
+<AnexoFq04T01-Linha numero="9">
+<NLinha>4009</NLinha>
+<Freguesia>110667</Freguesia>
+<TipoPredio>U</TipoPredio>
+<Artigo>616</Artigo>
+<Titular>A</Titular>
+<ValorIliquidoRendas>2750.00</ValorIliquidoRendas>
+<NaturezaRendas>1</NaturezaRendas>
+<RetencoesFonte>0.00</RetencoesFonte>
+<NIFArrendatario>288922948</NIFArrendatario>
+</AnexoFq04T01-Linha>
+<AnexoFq04T01-Linha numero="10">
+<NLinha>4010</NLinha>
+<Freguesia>110667</Freguesia>
+<TipoPredio>U</TipoPredio>
+<Artigo>1560</Artigo>
+<Titular>A</Titular>
+<ValorIliquidoRendas>2562.50</ValorIliquidoRendas>
+<NaturezaRendas>1</NaturezaRendas>
+<RetencoesFonte>0.00</RetencoesFonte>
+<NIFArrendatario>221032126</NIFArrendatario>
+</AnexoFq04T01-Linha>
+<AnexoFq04T01-Linha numero="11">
+<NLinha>4011</NLinha>
+<Freguesia>110667</Freguesia>
+<TipoPredio>U</TipoPredio>
+<Artigo>1560</Artigo>
+<Titular>A</Titular>
+<ValorIliquidoRendas>2700.00</ValorIliquidoRendas>
+<NaturezaRendas>1</NaturezaRendas>
+<RetencoesFonte>0.00</RetencoesFonte>
+<NIFArrendatario>235879894</NIFArrendatario>
+</AnexoFq04T01-Linha>
+<AnexoFq04T01-Linha numero="12">
+<NLinha>4012</NLinha>
+<Freguesia>110656</Freguesia>
+<TipoPredio>U</TipoPredio>
+<Artigo>1993</Artigo>
+<Fraccao>RC D</Fraccao>
+<Titular>A</Titular>
+<ValorIliquidoRendas>25.83</ValorIliquidoRendas>
+<NaturezaRendas>1</NaturezaRendas>
+<RetencoesFonte>0.00</RetencoesFonte>
+<NIFArrendatario>100226264</NIFArrendatario>
+</AnexoFq04T01-Linha>
+<AnexoFq04T01-Linha numero="13">
+<NLinha>4013</NLinha>
+<Freguesia>110656</Freguesia>
+<TipoPredio>U</TipoPredio>
+<Artigo>1993</Artigo>
+<Fraccao>RC D</Fraccao>
+<Titular>A</Titular>
+<ValorIliquidoRendas>541.67</ValorIliquidoRendas>
+<NaturezaRendas>1</NaturezaRendas>
+<RetencoesFonte>0.00</RetencoesFonte>
+<NIFArrendatario>267326823</NIFArrendatario>
+</AnexoFq04T01-Linha>
+<AnexoFq04T01-Linha numero="14">
+<NLinha>4014</NLinha>
+<Freguesia>110656</Freguesia>
+<TipoPredio>U</TipoPredio>
+<Artigo>1993</Artigo>
+<Fraccao>RC E</Fraccao>
+<Titular>A</Titular>
+<ValorIliquidoRendas>1100.00</ValorIliquidoRendas>
+<NaturezaRendas>1</NaturezaRendas>
+<RetencoesFonte>0.00</RetencoesFonte>
+<NIFArrendatario>108154246</NIFArrendatario>
+</AnexoFq04T01-Linha>
+<AnexoFq04T01-Linha numero="15">
+<NLinha>4015</NLinha>
+<Freguesia>110656</Freguesia>
+<TipoPredio>U</TipoPredio>
+<Artigo>1993</Artigo>
+<Fraccao>1 D</Fraccao>
+<Titular>A</Titular>
+<ValorIliquidoRendas>916.67</ValorIliquidoRendas>
+<NaturezaRendas>1</NaturezaRendas>
+<RetencoesFonte>0.00</RetencoesFonte>
+<NIFArrendatario>245142754</NIFArrendatario>
+</AnexoFq04T01-Linha>
+<AnexoFq04T01-Linha numero="16">
+<NLinha>4016</NLinha>
+<Freguesia>110656</Freguesia>
+<TipoPredio>U</TipoPredio>
+<Artigo>1993</Artigo>
+<Fraccao>1 E</Fraccao>
+<Titular>A</Titular>
+<ValorIliquidoRendas>1000.00</ValorIliquidoRendas>
+<NaturezaRendas>1</NaturezaRendas>
+<RetencoesFonte>0.00</RetencoesFonte>
+<NIFArrendatario>217798080</NIFArrendatario>
+</AnexoFq04T01-Linha>
+<AnexoFq04T01-Linha numero="17">
+<NLinha>4017</NLinha>
+<Freguesia>110656</Freguesia>
+<TipoPredio>U</TipoPredio>
+<Artigo>1993</Artigo>
+<Fraccao>2 D</Fraccao>
+<Titular>A</Titular>
+<ValorIliquidoRendas>250.00</ValorIliquidoRendas>
+<NaturezaRendas>1</NaturezaRendas>
+<RetencoesFonte>0.00</RetencoesFonte>
+<NIFArrendatario>215511980</NIFArrendatario>
+</AnexoFq04T01-Linha>
+<AnexoFq04T01-Linha numero="18">
+<NLinha>4018</NLinha>
+<Freguesia>110656</Freguesia>
+<TipoPredio>U</TipoPredio>
+<Artigo>1993</Artigo>
+<Fraccao>2 D</Fraccao>
+<Titular>A</Titular>
+<ValorIliquidoRendas>250.00</ValorIliquidoRendas>
+<NaturezaRendas>1</NaturezaRendas>
+<RetencoesFonte>0.00</RetencoesFonte>
+<NIFArrendatario>242713378</NIFArrendatario>
+</AnexoFq04T01-Linha>
+<AnexoFq04T01-Linha numero="19">
+<NLinha>4019</NLinha>
+<Freguesia>110656</Freguesia>
+<TipoPredio>U</TipoPredio>
+<Artigo>1993</Artigo>
+<Fraccao>2 D</Fraccao>
+<Titular>A</Titular>
+<ValorIliquidoRendas>550.00</ValorIliquidoRendas>
+<NaturezaRendas>1</NaturezaRendas>
+<RetencoesFonte>0.00</RetencoesFonte>
+<NIFArrendatario>267326823</NIFArrendatario>
+</AnexoFq04T01-Linha>
+<AnexoFq04T01-Linha numero="20">
+<NLinha>4020</NLinha>
+<Freguesia>110656</Freguesia>
+<TipoPredio>U</TipoPredio>
+<Artigo>1993</Artigo>
+<Fraccao>2 E</Fraccao>
+<Titular>A</Titular>
+<ValorIliquidoRendas>1100.00</ValorIliquidoRendas>
+<NaturezaRendas>1</NaturezaRendas>
+<RetencoesFonte>0.00</RetencoesFonte>
+<NIFArrendatario>191788520</NIFArrendatario>
+</AnexoFq04T01-Linha>
+</AnexoFq04T01>
+<AnexoFq04T01SomaC01>20901.94</AnexoFq04T01SomaC01>
+<AnexoFq04T01SomaC02>0.00</AnexoFq04T01SomaC02>
+</Quadro04>
+<Quadro05>
+<AnexoFq05AT01 />
+<AnexoFq05BT01 />
+</Quadro05>
+<Quadro06>
+<AnexoFq06T01 />
+<AnexoFq06T01SomaC01>0.00</AnexoFq06T01SomaC01>
+<AnexoFq06T01SomaC02>0.00</AnexoFq06T01SomaC02>
+<AnexoFq06T01SomaC03>0.00</AnexoFq06T01SomaC03>
+</Quadro06>
+<Quadro07>
+<AnexoFq07AT01 />
+<AnexoFq07B06>S</AnexoFq07B06>
+</Quadro07>
+<Quadro08>
+<AnexoFq08T01 />
+</Quadro08>
+<Quadro09>
+<AnexoFq09T01 />
+</Quadro09>
+<Quadro10>
+<AnexoFq10T01 />
+</Quadro10>
+</AnexoF>
+<AnexoH>
+<Quadro02>
+<AnexoHq02C01>2017</AnexoHq02C01>
+</Quadro02>
+<Quadro03>
+<AnexoHq03C01>230905080</AnexoHq03C01>
+</Quadro03>
+<Quadro04>
+<AnexoHq04T01 />
+</Quadro04>
+<Quadro05>
+<AnexoHq05T01 />
+</Quadro05>
+<Quadro06>
+<AnexoHq06AT01 />
+<AnexoHq06BT01 />
+<AnexoHq06B01>S</AnexoHq06B01>
+<AnexoHq06CT01>
+<AnexoHq06CT01-Linha numero="1">
+<CodDespesaEncargo>651</CodDespesaEncargo>
+<Titular>A</Titular>
+<Montante>2849.05</Montante>
+</AnexoHq06CT01-Linha>
+<AnexoHq06CT01-Linha numero="2">
+<CodDespesaEncargo>653</CodDespesaEncargo>
+<Titular>A</Titular>
+<Montante>86.90</Montante>
+</AnexoHq06CT01-Linha>
+</AnexoHq06CT01>
+<AnexoHq06CT02 />
+</Quadro06>
+<Quadro07>
+<AnexoHq07T01 />
+</Quadro07>
+<Quadro08 />
+</AnexoH>
 </Modelo3IRSv2018>
