@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<Modelo3IRSv2018  xmlns="http://www.dgci.gov.pt/2009/Modelo3IRSv2018" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dgci.gov.pt/2009/Modelo3IRSv2018 Modelo3IRSv2018.xsd" versao="1">
+<Modelo3IRSv2018  xmlns="http://www.dgci.gov.pt/2009/Modelo3IRSv2018" versao="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dgci.gov.pt/2009/Modelo3IRSv2018 Modelo3IRSv2018.xsd">
 <Rosto>
 <QuadroInicio />
 <Quadro01>
@@ -341,7 +341,90 @@
 <AnexoFq04T01SomaC02>0.00</AnexoFq04T01SomaC02>
 </Quadro04>
 <Quadro05>
-<AnexoFq05AT01 />
+<AnexoFq05AT01>
+<AnexoFq05AT01-Linha numero="1">
+<NLinhaQ4>4001</NLinhaQ4>
+<ConservacaoManutencao>188.10</ConservacaoManutencao>
+<IMI>193.27</IMI>
+<Outros>366.67</Outros>
+</AnexoFq05AT01-Linha>
+<AnexoFq05AT01-Linha numero="2">
+<NLinhaQ4>4003</NLinhaQ4>
+<ConservacaoManutencao>129.10</ConservacaoManutencao>
+<IMI>193.27</IMI>
+</AnexoFq05AT01-Linha>
+<AnexoFq05AT01-Linha numero="3">
+<NLinhaQ4>4004</NLinhaQ4>
+<ConservacaoManutencao>129.10</ConservacaoManutencao>
+<IMI>193.27</IMI>
+</AnexoFq05AT01-Linha>
+<AnexoFq05AT01-Linha numero="4">
+<NLinhaQ4>4005</NLinhaQ4>
+<ConservacaoManutencao>129.10</ConservacaoManutencao>
+<IMI>193.27</IMI>
+</AnexoFq05AT01-Linha>
+<AnexoFq05AT01-Linha numero="5">
+<NLinhaQ4>4006</NLinhaQ4>
+<ConservacaoManutencao>129.10</ConservacaoManutencao>
+<IMI>216.42</IMI>
+<ImpostoSelo>52.50</ImpostoSelo>
+</AnexoFq05AT01-Linha>
+<AnexoFq05AT01-Linha numero="6">
+<NLinhaQ4>4007</NLinhaQ4>
+<ConservacaoManutencao>143.43</ConservacaoManutencao>
+<IMI>216.42</IMI>
+</AnexoFq05AT01-Linha>
+<AnexoFq05AT01-Linha numero="7">
+<NLinhaQ4>4009</NLinhaQ4>
+<IMI>37.65</IMI>
+</AnexoFq05AT01-Linha>
+<AnexoFq05AT01-Linha numero="8">
+<NLinhaQ4>4010</NLinhaQ4>
+<IMI>48.60</IMI>
+</AnexoFq05AT01-Linha>
+<AnexoFq05AT01-Linha numero="9">
+<NLinhaQ4>4011</NLinhaQ4>
+<IMI>48.60</IMI>
+</AnexoFq05AT01-Linha>
+<AnexoFq05AT01-Linha numero="10">
+<NLinhaQ4>4012</NLinhaQ4>
+<ConservacaoManutencao>5011.35</ConservacaoManutencao>
+<IMI>108.80</IMI>
+<ImpostoSelo>65.00</ImpostoSelo>
+</AnexoFq05AT01-Linha>
+<AnexoFq05AT01-Linha numero="11">
+<NLinhaQ4>4014</NLinhaQ4>
+<ConservacaoManutencao>58.39</ConservacaoManutencao>
+<IMI>108.80</IMI>
+</AnexoFq05AT01-Linha>
+<AnexoFq05AT01-Linha numero="12">
+<NLinhaQ4>4015</NLinhaQ4>
+<ConservacaoManutencao>58.39</ConservacaoManutencao>
+<IMI>108.80</IMI>
+</AnexoFq05AT01-Linha>
+<AnexoFq05AT01-Linha numero="13">
+<NLinhaQ4>4016</NLinhaQ4>
+<ConservacaoManutencao>2236.52</ConservacaoManutencao>
+<IMI>108.80</IMI>
+</AnexoFq05AT01-Linha>
+<AnexoFq05AT01-Linha numero="14">
+<NLinhaQ4>4017</NLinhaQ4>
+<ConservacaoManutencao>4933.26</ConservacaoManutencao>
+<IMI>108.80</IMI>
+<ImpostoSelo>60.00</ImpostoSelo>
+</AnexoFq05AT01-Linha>
+<AnexoFq05AT01-Linha numero="15">
+<NLinhaQ4>4020</NLinhaQ4>
+<ConservacaoManutencao>2236.52</ConservacaoManutencao>
+<IMI>108.80</IMI>
+</AnexoFq05AT01-Linha>
+</AnexoFq05AT01>
+<AnexoFq05AT01SomaC01>15382.36</AnexoFq05AT01SomaC01>
+<AnexoFq05AT01SomaC02>0.00</AnexoFq05AT01SomaC02>
+<AnexoFq05AT01SomaC03>1993.57</AnexoFq05AT01SomaC03>
+<AnexoFq05AT01SomaC04>177.50</AnexoFq05AT01SomaC04>
+<AnexoFq05AT01SomaC05>0.00</AnexoFq05AT01SomaC05>
+<AnexoFq05AT01SomaC06>366.67</AnexoFq05AT01SomaC06>
 <AnexoFq05BT01 />
 </Quadro05>
 <Quadro06>
