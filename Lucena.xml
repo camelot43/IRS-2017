@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<Modelo3IRSv2018  xmlns="http://www.dgci.gov.pt/2009/Modelo3IRSv2018" versao="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dgci.gov.pt/2009/Modelo3IRSv2018 Modelo3IRSv2018.xsd">
+<Modelo3IRSv2018  xmlns="http://www.dgci.gov.pt/2009/Modelo3IRSv2018" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dgci.gov.pt/2009/Modelo3IRSv2018 Modelo3IRSv2018.xsd" versao="1">
 <Rosto>
 <QuadroInicio />
 <Quadro01>
@@ -380,6 +380,7 @@
 </AnexoFq05AT01-Linha>
 <AnexoFq05AT01-Linha numero="8">
 <NLinhaQ4>4010</NLinhaQ4>
+<ConservacaoManutencao>25.00</ConservacaoManutencao>
 <IMI>48.60</IMI>
 </AnexoFq05AT01-Linha>
 <AnexoFq05AT01-Linha numero="9">
@@ -419,7 +420,7 @@
 <IMI>108.80</IMI>
 </AnexoFq05AT01-Linha>
 </AnexoFq05AT01>
-<AnexoFq05AT01SomaC01>15382.36</AnexoFq05AT01SomaC01>
+<AnexoFq05AT01SomaC01>15407.36</AnexoFq05AT01SomaC01>
 <AnexoFq05AT01SomaC02>0.00</AnexoFq05AT01SomaC02>
 <AnexoFq05AT01SomaC03>1993.57</AnexoFq05AT01SomaC03>
 <AnexoFq05AT01SomaC04>177.50</AnexoFq05AT01SomaC04>

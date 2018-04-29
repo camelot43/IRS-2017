@@ -321,7 +321,88 @@
 <AnexoFq04T01SomaC02>0.00</AnexoFq04T01SomaC02>
 </Quadro04>
 <Quadro05>
-<AnexoFq05AT01 />
+<AnexoFq05AT01>
+<AnexoFq05AT01-Linha numero="1">
+<NLinhaQ4>4001</NLinhaQ4>
+<ConservacaoManutencao>94.05</ConservacaoManutencao>
+<IMI>96.64</IMI>
+<Outros>183.33</Outros>
+</AnexoFq05AT01-Linha>
+<AnexoFq05AT01-Linha numero="2">
+<NLinhaQ4>4003</NLinhaQ4>
+<ConservacaoManutencao>64.55</ConservacaoManutencao>
+<IMI>96.64</IMI>
+</AnexoFq05AT01-Linha>
+<AnexoFq05AT01-Linha numero="3">
+<NLinhaQ4>4004</NLinhaQ4>
+<ConservacaoManutencao>64.55</ConservacaoManutencao>
+<IMI>96.64</IMI>
+</AnexoFq05AT01-Linha>
+<AnexoFq05AT01-Linha numero="4">
+<NLinhaQ4>4005</NLinhaQ4>
+<ConservacaoManutencao>64.55</ConservacaoManutencao>
+<IMI>96.64</IMI>
+</AnexoFq05AT01-Linha>
+<AnexoFq05AT01-Linha numero="5">
+<NLinhaQ4>4006</NLinhaQ4>
+<ConservacaoManutencao>64.55</ConservacaoManutencao>
+<IMI>108.21</IMI>
+</AnexoFq05AT01-Linha>
+<AnexoFq05AT01-Linha numero="6">
+<NLinhaQ4>4007</NLinhaQ4>
+<ConservacaoManutencao>71.72</ConservacaoManutencao>
+<IMI>108.21</IMI>
+</AnexoFq05AT01-Linha>
+<AnexoFq05AT01-Linha numero="7">
+<NLinhaQ4>4009</NLinhaQ4>
+<IMI>37.65</IMI>
+</AnexoFq05AT01-Linha>
+<AnexoFq05AT01-Linha numero="8">
+<NLinhaQ4>4010</NLinhaQ4>
+<ConservacaoManutencao>25.00</ConservacaoManutencao>
+<IMI>48.60</IMI>
+</AnexoFq05AT01-Linha>
+<AnexoFq05AT01-Linha numero="9">
+<NLinhaQ4>4011</NLinhaQ4>
+<IMI>48.60</IMI>
+</AnexoFq05AT01-Linha>
+<AnexoFq05AT01-Linha numero="10">
+<NLinhaQ4>4012</NLinhaQ4>
+<ConservacaoManutencao>1002.27</ConservacaoManutencao>
+<IMI>21.76</IMI>
+</AnexoFq05AT01-Linha>
+<AnexoFq05AT01-Linha numero="11">
+<NLinhaQ4>4014</NLinhaQ4>
+<ConservacaoManutencao>11.68</ConservacaoManutencao>
+<IMI>21.76</IMI>
+</AnexoFq05AT01-Linha>
+<AnexoFq05AT01-Linha numero="12">
+<NLinhaQ4>4015</NLinhaQ4>
+<ConservacaoManutencao>11.68</ConservacaoManutencao>
+<IMI>21.76</IMI>
+</AnexoFq05AT01-Linha>
+<AnexoFq05AT01-Linha numero="13">
+<NLinhaQ4>4016</NLinhaQ4>
+<ConservacaoManutencao>447.30</ConservacaoManutencao>
+<IMI>21.76</IMI>
+</AnexoFq05AT01-Linha>
+<AnexoFq05AT01-Linha numero="14">
+<NLinhaQ4>4017</NLinhaQ4>
+<ConservacaoManutencao>986.65</ConservacaoManutencao>
+<IMI>21.76</IMI>
+</AnexoFq05AT01-Linha>
+<AnexoFq05AT01-Linha numero="15">
+<NLinhaQ4>4020</NLinhaQ4>
+<ConservacaoManutencao>447.30</ConservacaoManutencao>
+<IMI>21.76</IMI>
+</AnexoFq05AT01-Linha>
+</AnexoFq05AT01>
+<AnexoFq05AT01SomaC01>3355.85</AnexoFq05AT01SomaC01>
+<AnexoFq05AT01SomaC02>0.00</AnexoFq05AT01SomaC02>
+<AnexoFq05AT01SomaC03>868.39</AnexoFq05AT01SomaC03>
+<AnexoFq05AT01SomaC04>0.00</AnexoFq05AT01SomaC04>
+<AnexoFq05AT01SomaC05>0.00</AnexoFq05AT01SomaC05>
+<AnexoFq05AT01SomaC06>183.33</AnexoFq05AT01SomaC06>
 <AnexoFq05BT01 />
 </Quadro05>
 <Quadro06>
