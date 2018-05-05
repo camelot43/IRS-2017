@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<Modelo3IRSv2018  xmlns="http://www.dgci.gov.pt/2009/Modelo3IRSv2018" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dgci.gov.pt/2009/Modelo3IRSv2018 Modelo3IRSv2018.xsd" versao="1">
+<Modelo3IRSv2018  xmlns="http://www.dgci.gov.pt/2009/Modelo3IRSv2018" versao="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dgci.gov.pt/2009/Modelo3IRSv2018 Modelo3IRSv2018.xsd">
 <Rosto>
 <QuadroInicio />
 <Quadro01>
@@ -441,24 +441,16 @@
 <Quadro06>
 <AnexoHq06AT01 />
 <AnexoHq06BT01 />
-<AnexoHq06B01>S</AnexoHq06B01>
-<AnexoHq06CT01>
-<AnexoHq06CT01-Linha numero="1">
-<CodDespesaEncargo>651</CodDespesaEncargo>
-<Titular>A</Titular>
-<Montante>2849.05</Montante>
-</AnexoHq06CT01-Linha>
-<AnexoHq06CT01-Linha numero="2">
-<CodDespesaEncargo>653</CodDespesaEncargo>
-<Titular>A</Titular>
-<Montante>86.90</Montante>
-</AnexoHq06CT01-Linha>
-</AnexoHq06CT01>
+<AnexoHq06B01>N</AnexoHq06B01>
+<AnexoHq06CT01 />
 <AnexoHq06CT02 />
 </Quadro06>
 <Quadro07>
 <AnexoHq07T01 />
 </Quadro07>
-<Quadro08 />
+<Quadro08>
+<AnexoHq08SomaC01>0.00</AnexoHq08SomaC01>
+<AnexoHq08SomaC02>0.00</AnexoHq08SomaC02>
+</Quadro08>
 </AnexoH>
 </Modelo3IRSv2018>
